@@ -1,0 +1,45 @@
+### IntelliJ IDEA ###
+../out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Ignorar archivos de IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar archivos de compilación
+/out/
+*.class
+
+# Ignorar configuraciones del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar cualquier otro archivo innecesario
+*.log
+*.tmp
